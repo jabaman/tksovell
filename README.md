@@ -1,2 +1,3 @@
 # tksovell
 careeiria tietokantasovellus
+aikamoista meininkiä
